@@ -1,0 +1,8 @@
+Software required:
+git 
+git hub
+eclipse
+vs code
+Jdk
+spring 
+Springboot
